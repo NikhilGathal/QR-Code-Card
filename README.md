@@ -1,1 +1,1 @@
-# OR Code Card
+# QR Code Card
